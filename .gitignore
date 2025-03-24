@@ -1,0 +1,19 @@
+# Omitir archivos binarios de C/C++
+*.o
+*.out
+*.exe
+*.bin
+*.elf
+
+# Omitir ejecutables sin extensión (Linux/macOS)
+a.out
+
+# Omitir archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+
+myPrograma*
+
