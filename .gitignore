@@ -1,21 +1,22 @@
-# Omitir archivos binarios de C/C++
+# Avoid Compiled files and Binaries  C/C++
 *.o
 *.out
 *.exe
 *.bin
 *.elf
 
-# Omitir ejecutables sin extensión (Linux/macOS)
+#Exclude files without extension  (Linux/macOS)
 a.out
 
-# Omitir archivos compilados de Java
+# Deny Compiled files from the Java Virtual Machine as any bytecode 
 *.class
 *.jar
 *.war
 *.ear
 
 #Ignore compiled files from  viscode 
-.vscode
+.vscode/
+#Deny .vscode Folder .
 
 myPrograma*
 
