@@ -18,5 +18,17 @@ a.out
 .vscode/
 #Deny .vscode Folder .
 
+#Ignore all  these compiled files and not longer track  them out .
+
+# Compiled binary files
+rotten
+sqt2root
+subSum
+subSum2
+topKelements
+nonDup2
+recursiverser2
+
+
 myPrograma*
 
