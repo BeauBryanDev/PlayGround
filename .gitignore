@@ -29,6 +29,9 @@ topKelements
 nonDup2
 recursiverser2
 
+#Avoid Any txt file from now on ...
+
+*.txt
 
 myPrograma*
 
