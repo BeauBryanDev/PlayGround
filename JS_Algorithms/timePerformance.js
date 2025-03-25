@@ -32,19 +32,6 @@ test2(10);
 const test5 = medir(contar);
 test2(10);
 
-/*
-mongodb+srv://BeauMongo:Set.Fire.2.Rain*007@cluster0demo.8n28e.mongodb.net/
-
-
-Beauser
-SetFire2Rain007
-
-
-mongodb+srv://<db_username>:<db_password>@cluster0demo.8n28e.mongodb.net/
-
-mongodb+srv://Beauser:SetFire2Rain007@cluster0demo.8n28e.mongodb.net/
-
-*/
 
 const usuarios = [];
 
