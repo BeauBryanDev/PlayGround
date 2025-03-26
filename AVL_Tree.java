@@ -1,6 +1,7 @@
 /*AVL Tree */
 
 #include <iostream>
+// Thisis a AVL Tree data structure based on class Node .
 using namespace std;
 
 class Node 

@@ -7,7 +7,7 @@ Prinn's Algorithm .*/
 #include <utility>
 
 using namespace std;
-
+//make it be V : 6 SIZE .
 #define V 6
 
 typedef pair<int,pair<int,int>> p;
