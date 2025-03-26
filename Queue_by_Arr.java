@@ -1,5 +1,5 @@
 //QUEUE BY USING ARR[SIZE] ....
-
+//Build a Queue in >Java by Using an array as aux data sgtructure , then enqueue and dequeue element from this one.
 
 class Queue
 { 
