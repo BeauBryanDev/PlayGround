@@ -1,4 +1,6 @@
 /*Fibonnacci as Top-Down Approach */ 
+/* Use Dynamic Programming to run the fibonacci serie from top to bottom in 
+order to reduce memory overhead and improve code optimization */
 
 import java.util.Arrays;
 
